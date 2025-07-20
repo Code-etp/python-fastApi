@@ -1,0 +1,52 @@
+{
+    "personal_info": {
+        "name": "olawole lateef",
+        "email": "olawolelateef@gmail.com",
+        "phone": "+2348168818941",
+        "address": "123 Main St, City, State 12345",
+        "github": "github.com/code-etp"
+    },
+    "summary": "Experienced software developer with 5+ years in Python and web development. Passionate about clean code and efficient systems.",
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Science",
+            "institution": "unilag University",
+            "year": "2018",
+            "gpa": "3.8"
+        }
+    ],
+    "experience": [
+        {
+            "position": "Senior Software Engineer",
+            "company": "Tech Solutions Inc.",
+            "duration": "2020 - Present",
+            "responsibilities": [
+                "Develop and maintain web applications using Python and Django",
+                "Lead a team of 5 junior developers",
+                "Implement CI/CD pipelines for automated deployments"
+            ]
+        },
+        {
+            "position": "Software Developer",
+            "company": "Digital Innovations",
+            "duration": "2018 - 2020",
+            "responsibilities": [
+                "Built RESTful APIs using Flask",
+                "Collaborated on front-end development with React",
+                "Participated in agile development cycles"
+            ]
+        }
+    ],
+    "skills": {
+        "programming": ["Python", "JavaScript", "Java"],
+        "frameworks": ["Django", "Flask", "React"],
+        "tools": ["Git", "Docker", "AWS"]
+    },
+    "projects": [
+        {
+            "name": "E-commerce Platform",
+            "description": "Full-stack e-commerce solution with payment integration",
+            "technologies": ["Python", "Django", "PostgreSQL", "Stripe API"]
+        }
+    ]
+}
